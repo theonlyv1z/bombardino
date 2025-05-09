@@ -1,5 +1,6 @@
 return {
      "hwid-test-xyz",
+     "f28dab3d-4fe4-456a-acdf-f0ee41f5a752", -- kath
      "E3E098BB-3CD9-4BEE-A90B-CB48E59D71AA", -- v1z
      "dd9a72e5-e01d-4ef1-9804-d8535be254f9", -- juno the esp abuser
      "FCC4A12D-5E6C-4E52-983D-C21C8BFCDD7A", -- paddy the jumper
