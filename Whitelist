@@ -1,9 +1,9 @@
 return {
      "hwid-test-xyz",
-     "f28dab3d-4fe4-456a-acdf-f0ee41f5a752", -- kath
      "E3E098BB-3CD9-4BEE-A90B-CB48E59D71AA", -- v1z
-     "dd9a72e5-e01d-4ef1-9804-d8535be254f9", -- juno the esp abuser
-     "FCC4A12D-5E6C-4E52-983D-C21C8BFCDD7A", -- paddy the jumper
+     "f28dab3d-4fe4-456a-acdf-f0ee41f5a752", -- kath
+     "dd9a72e5-e01d-4ef1-9804-d8535be254f9", -- juno
+     "FCC4A12D-5E6C-4E52-983D-C21C8BFCDD7A", -- paddy
      "6CF5FFAB-4158-46EE-8A9E-68E1C1E5FF43", -- vel
      "35EC4257-6FD3-4700-B3D2-9690F3E119C7", -- riz
  }
