@@ -1,1 +1,4 @@
-
+return {
+     "hwid-test-xyz",
+     "E3E098BB-3CD9-4BEE-A90B-CB48E59D71AA", -- v1z
+ }
