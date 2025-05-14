@@ -1,7 +1,6 @@
 return {
      "hwid-test-xyz",
      "50FFBE6E-9C0A-4094-ADBF-01465092A213", -- v1z
-     "f28dab3d-4fe4-456a-acdf-f0ee41f5a752", -- ka
      "dd9a72e5-e01d-4ef1-9804-d8535be254f9", -- ju
      "FCC4A12D-5E6C-4E52-983D-C21C8BFCDD7A", -- pa
      "6CF5FFAB-4158-46EE-8A9E-68E1C1E5FF43", -- ve
