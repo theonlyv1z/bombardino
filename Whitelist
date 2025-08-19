@@ -1,3 +1,4 @@
 -- Whitelisted HWIDs
 return {
     "hwid-test-xyz"
+}
